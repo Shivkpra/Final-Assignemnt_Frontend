@@ -1,0 +1,8 @@
+.topnav {
+    background-color: black;
+    text-align: center;
+    /* overflow: hidden; */
+    height: 40px;
+    padding: 10px;
+    font-size: 10px;
+}

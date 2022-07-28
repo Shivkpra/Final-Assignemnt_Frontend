@@ -1,0 +1,21 @@
+.bottomnav {
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    /* background-color: #E5E5E5; */
+    /* overflow: hidden; */
+    height: 40px;
+    /* margin: 0 150px; */
+    /* padding: 5px; */
+    z-index: 1000;
+    align-items: center;
+    
+}
+.nav-link{
+    color: #202020 !important;
+    font-weight: 500;
+}
+
+.navbar-brand{
+    margin-right: 70px;
+    margin-left: 70px;
+}
